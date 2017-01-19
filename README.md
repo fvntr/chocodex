@@ -1,2 +1,2 @@
 # chocodex
-choco repo
+choco data repo and review platform
